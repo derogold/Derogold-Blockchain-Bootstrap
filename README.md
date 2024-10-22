@@ -14,6 +14,8 @@ The most recent DeroGold Blockchain Bootstrap DB is from 22nd October 2024.
 
 Keep in mind the file is over 305GB large! 
 It may take several hours to download from IPFS, especially in the first few days of publishing the bootstrap before it propagates to other IPFS nodes.
+It may take several attempts before the file starts to download. 
+Tools like wget work best in our experience. You can also use IPFS desktop if you got one installed. 
 Yet, downloading the bootstrap file will 100% be much faster to get your node synced with the DeroGold network than syncing from scratch with or without checkpoints. 
 
 Safe yourself a few days, download and use DeroGold bootstrap today. 
