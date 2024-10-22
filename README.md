@@ -19,4 +19,4 @@ Yet, downloading the bootstrap file will 100% be much faster to get your node sy
 Safe yourself a few days, download and use DeroGold bootstrap today. 
 
 ### Credits
-Derogold Developers
+`DeroGold Developers`
